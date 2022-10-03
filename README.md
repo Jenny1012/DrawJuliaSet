@@ -58,11 +58,11 @@
 首先先把從main傳進來的值存入4個宣告在drawJuliaSet.s檔案label中(cx,cy,width,height)，再將frame存入r10的暫存器。其餘皆與範例同。  
   
 三、結果  
-  ![image](https://user-images.githubusercontent.com/64779422/193545808-5397cb1b-dc05-4df4-a585-caa13159d55b.png)
-  ![image](https://user-images.githubusercontent.com/64779422/193545822-3332df24-4bea-47f9-b758-266acc96787d.png)
-  ![image](https://user-images.githubusercontent.com/64779422/193545840-7fd16732-7619-4829-94f7-5bc4e5cc2b22.png)
-  ![image](https://user-images.githubusercontent.com/64779422/193545845-4038eb4e-7092-49e3-8f19-c0a4c33b1f14.png)
-  ![image](https://user-images.githubusercontent.com/64779422/193545862-51f9b52a-7e0d-4ba7-9567-1c9203377a87.png)
+  ![image](https://user-images.githubusercontent.com/64779422/193545808-5397cb1b-dc05-4df4-a585-caa13159d55b.png)  
+  ![image](https://user-images.githubusercontent.com/64779422/193545822-3332df24-4bea-47f9-b758-266acc96787d.png)  
+  ![image](https://user-images.githubusercontent.com/64779422/193545840-7fd16732-7619-4829-94f7-5bc4e5cc2b22.png)  
+  ![image](https://user-images.githubusercontent.com/64779422/193545845-4038eb4e-7092-49e3-8f19-c0a4c33b1f14.png)  
+  ![image](https://user-images.githubusercontent.com/64779422/193545862-51f9b52a-7e0d-4ba7-9567-1c9203377a87.png)  
   
 
 四、指定說明項目(memory dump)  
